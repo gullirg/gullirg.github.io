@@ -1,6 +1,6 @@
 ---
 title: "The Entropic Miracles"
-excerpt: "View the [PDF](https://github.com/gullirg/gullirg.github.io/blob/master/files/TheEntropicMiracle.pdf)"
+excerpt: "This is something I wrote for fun as a mixture of philosophical and scientific perspectives on the human mind. Find here the [PDF](https://github.com/gullirg/gullirg.github.io/blob/master/files/TheEntropicMiracle.pdf)"
 collection: portfolio
 ---
 
