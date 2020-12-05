@@ -1,6 +1,6 @@
 ---
 title: "Cellular Computing & Artificial Cells"
-excerpt: "This is my Theoretical Physics Literature Review. find here the [PDF](https://github.com/gullirg/gullirg.github.io/blob/master/files/k1763271_Reggio_LitRev.pdf)"
+excerpt: "This is my Theoretical Physics Literature Review. Find here the [PDF](https://github.com/gullirg/gullirg.github.io/blob/master/files/k1763271_Reggio_LitRev.pdf)"
 collection: portfolio
 ---
 
