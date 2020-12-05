@@ -11,49 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Philosophy, Università vita-salute San Raffaele, 2017
+* B.S. in Theoretical Physics, King's College London, 2020
+* M.S. in Machine Learning, UCL, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Research Intern
+  * The Hebrew University of Jerusalem
+  * Duties included: Developing a ring attractor network model of place cells.
+  * Supervisor: Professor Yoram Burak
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2019: Summer Material Analyst Technician
+  * Fermi National Accelerator Laboratory
+  * Duties included: Understanding the causes and effects of different surface roughness in nitrogen doped SRF cavities.
+  * Supervisor: Professor Anna Grassellino
+  
+* Summer 2019: Research Fellow
+  * King’s College London
+  * Duties included: Computationally investigating robustness of patterns in reaction-diffusion systems on complex networks.
+  * Supervisor: Dr Attila Csikász-Nagy
+  
+* Summer 2019: Chief Executive Officer
+  * Mappin Technologies ltd
+  * Duties included: From indoor navigation to asset tracking and contagion monitoring tools.
+  * Supervisor: Dr Attila Csikász-Nagy
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding
+  * Python
+  * Julia
+  
+* Languages
+  * Italian
+  * English
+  * French
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
