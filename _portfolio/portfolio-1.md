@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "![alt text](/images/profile.png "Title") [Go to the Support Web Site](https://support.west-wind.com) Short description of portfolio item number 1<br/><pdf src='/files/k1763271_Reggio_LitRev.pdf'>"
+excerpt: "[[https://github.com/gullirg/gullirg.github.io/images/profile.png|alt=octocat]] [Go to the Support Web Site](https://support.west-wind.com) Short description of portfolio item number 1<br/><pdf src='/files/k1763271_Reggio_LitRev.pdf'>"
 collection: portfolio
 ---
 
