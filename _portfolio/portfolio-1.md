@@ -1,6 +1,6 @@
 ---
 title: "When Matter Thought Itself"
-excerpt: "View the [PDF](https://github.com/gullirg/gullirg.github.io/blob/master/files/Tesi_Coscienza.pdf)"
+excerpt: "This is my BA in Philosophy dissertation (in Italian). Find here the [PDF](https://github.com/gullirg/gullirg.github.io/blob/master/files/Tesi_Coscienza.pdf)"
 collection: portfolio
 ---
 
