@@ -1,6 +1,6 @@
 ---
 title: "Cognitive Maps: a grid-like code"
-excerpt: "Find here the [essay](https://github.com/gullirg/gullirg.github.io/blob/master/files/Cognitive_maps.pdf) and the [poster](https://github.com/gullirg/gullirg.github.io/blob/master/files/SysNeuro_Poster.pdf)"
+excerpt: "This is an essay I wrote for the Systems Neuroscience module at KCL. Find here the [PDF](https://github.com/gullirg/gullirg.github.io/blob/master/files/Cognitive_maps.pdf) and the [poster](https://github.com/gullirg/gullirg.github.io/blob/master/files/SysNeuro_Poster.pdf)"
 collection: portfolio
 ---
 
