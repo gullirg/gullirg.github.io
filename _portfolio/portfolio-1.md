@@ -10,3 +10,5 @@ Starting with the question "what is consciousness?" the main problem is then bro
 2. Is the term "consciousness" unique and unambiguous? If so, which different connotations occur?
 3. Which areas of knowledge deal with the theme of consciousness and which different prospectives do they offer?
 4. How did the concept of consciousness evolved through the history of thought and the history of science? Which elements determined its main turning points?
+
+Find here the [PDF](https://github.com/gullirg/gullirg.github.io/blob/master/files/Tesi_Coscienza.pdf)
