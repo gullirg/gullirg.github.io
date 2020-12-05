@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Cognitive Maps"
+excerpt: "[Cognitive Maps](https://github.com/gullirg/gullirg.github.io/blob/master/files/Cognitive_maps.pdf)"
 collection: portfolio
 ---
 
