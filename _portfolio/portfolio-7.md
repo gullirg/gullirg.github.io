@@ -5,4 +5,4 @@ collection: portfolio
 ---
 
 Find here the [PDF](https://github.com/gullirg/gullirg.github.io/blob/master/files/BurakLab-3.pdf).
-}
+
