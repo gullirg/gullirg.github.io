@@ -13,19 +13,24 @@ Education
 ======
 * B.A. in Philosophy, Università vita-salute San Raffaele, 2017
 * B.S. in Theoretical Physics, King's College London, 2020
-* M.S. in Machine Learning, UCL, 2021 (expected)
+* M.S. in Machine Learning, UCL, 2021
 
 Work experience
 ======
+* 2022-2023: Research Assistant
+  * University College London
+  * Duties included: Modelling grid cells activity to investigate the emergence of the macroscopic hexadirectional modulation of activity by running direction.
+  * Supervisor: Prof. Neil Burgess
+
 * Summer 2020: Research Intern
   * The Hebrew University of Jerusalem
   * Duties included: Developing a ring attractor network model of place cells.
-  * Supervisor: Professor Yoram Burak
+  * Supervisor: Prof. Yoram Burak
 
 * Fall 2019: Summer Material Analyst Technician
   * Fermi National Accelerator Laboratory
   * Duties included: Understanding the causes and effects of different surface roughness in nitrogen doped SRF cavities.
-  * Supervisor: Professor Anna Grassellino
+  * Supervisor: Prof. Anna Grassellino
   
 * Summer 2019: Research Fellow
   * King’s College London
