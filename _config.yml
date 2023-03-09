@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Guglielmo Reggio"
 title_separator          : "-"
 name                     : &name "Guglielmo Reggio"
-description              : &description "MSc Machine Learning student at UCL"
+description              : &description "Research Assistant at UCL (Space & Memory Group)"
 url                      : https://gullirg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gullirg.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Guglielmo Reggio"
   avatar           : "profile.png"
-  bio              : "MSc Machine Learning student at UCL, BSc Theoretical Physics and BA Philosophy graduate from Italy."
+  bio              : "Research Assistant (Space & Memory Group, UCL) \nMSc Machine Learning (UCL) \nBSc Theoretical Physics (King's College London) \nBA Philosophy (Università vita-salute San Raffaele)"
   location         : "London, UK"
   employer         :
   pubmed           : 
