@@ -1,8 +1,14 @@
-# main links links
+# main links
 main:
-    
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Outputs"
+    url: /outputs/
+
   - title: "Portfolio"
     url: /portfolio/
-    
+
   - title: "CV"
     url: /cv/
