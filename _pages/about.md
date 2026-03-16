@@ -25,4 +25,4 @@ My work combines large-scale neural data analysis, Poisson and regression-based 
 
 ## Other Experience
 
-During my time at King's College London I was awarded the **King's Experience Research Award** and investigated Turing patterns in reaction-diffusion systems on complex networks. I also worked as a Material Analyst at **Fermilab** and interned at the **Hebrew University of Jerusalem** (Burak Lab), developing a ring attractor network model of place cells. While studying Physics I co-founded **Mappin Technologies**, an indoor navigation startup (Kings20 and Geovation accelerator cohorts).
+During my time at King's College London I was awarded the **King's Experience Research Award** and investigated Turing patterns in reaction-diffusion systems on complex networks. I also worked as a Material Analyst at **Fermilab** and interned at the **Hebrew University of Jerusalem** (Burak Lab), developing a ring attractor network model of place cells. While studying Physics I co-founded **Mappin Technologies**, an early-stage indoor navigation startup, now discontinued (Kings20 and Geovation accelerator cohorts).
