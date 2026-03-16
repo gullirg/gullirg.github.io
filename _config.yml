@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Guglielmo Reggio"
 title_separator          : "-"
 name                     : &name "Guglielmo Reggio"
-description              : &description "Research Assistant at UCL (Space & Memory Group)"
+description              : &description "PhD Student at UCL (Institute of Cognitive Neuroscience)"
 url                      : https://gullirg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gullirg.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Guglielmo Reggio"
   avatar           : "new_photo.jpg"
-  bio              : "Research Assistant (Space & Memory Group, UCL)"
+  bio              : "PhD Student, Institute of Cognitive Neuroscience, UCL"
   location         : "London, UK"
   employer         :
   pubmed           : 

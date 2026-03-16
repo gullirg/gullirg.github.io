@@ -13,33 +13,46 @@ redirect_from:
 
 ## Education
 
-* **M.S. in Machine Learning**, UCL, 2021
-* **B.S. in Theoretical Physics**, King's College London, 2020
-* **B.A. in Philosophy**, Università Vita-Salute San Raffaele, 2017
+* **MPhil/PhD in Cognitive Neuroscience**, UCL — Institute of Cognitive Neuroscience *(2023–2027)*
+  * Thesis: Spatial and conceptual representations
+  * Supervisor: Prof. Neil Burgess
+* **M.S. in Machine Learning** (Merit), UCL *(2020–2021)*
+  * Thesis: "Manifold Alignment of Graph Embeddings in Hyperbolic Space"
+  * Supervisor: Prof. Bradley Love
+* **B.S. in Theoretical Physics** (First-Class Honours), King's College London *(2017–2020)*
+  * Thesis: "Cellular Computing & Artificial Cells"
+  * Supervisor: Prof. Mark Green
+* **B.A. in Philosophy** (108/110), Università Vita-Salute San Raffaele *(2014–2017)*
+  * Thesis: "When Matter Thought Itself"
+  * Supervisor: Prof. Gianvito Martino
 
-## Work Experience
+## Experience
 
-* **Research Assistant** — University College London *(2022–2023)*
-  * Modelling grid cells activity to investigate the emergence of the macroscopic hexadirectional modulation of activity by running direction.
+* **Research Assistant** — UCL, Space & Memory Group *(2022–2023)*
+  * Investigating the role of neural firing rate adaptation effects on hexadirectional modulation.
   * Supervisor: Prof. Neil Burgess
 
-* **Research Intern** — The Hebrew University of Jerusalem *(Summer 2020)*
+* **Co-Founder & CEO** — Mappin Technologies Ltd *(2019–2020)*
+  * Indoor navigation solutions for large indoor venue owners, users, and administrators.
+
+* **Research Intern** — The Hebrew University of Jerusalem, Burak Lab *(Summer 2020)*
   * Developing a ring attractor network model of place cells.
   * Supervisor: Prof. Yoram Burak
 
-* **Material Analyst Technician** — Fermi National Accelerator Laboratory *(Fall 2019)*
+* **Material Analyst** — Fermi National Accelerator Laboratory *(Summer 2019)*
   * Investigating causes and effects of different surface roughness in nitrogen-doped SRF cavities.
-  * Supervisor: Prof. Anna Grassellino
+  * Supervisor: Dr Anna Grassellino
 
-* **Research Fellow** — King's College London *(Summer 2019)*
+* **Research Fellow** — King's College London, Randall Centre *(Summer 2019)*
   * Computationally investigating robustness of patterns in reaction-diffusion systems on complex networks.
   * Supervisor: Dr Attila Csikász-Nagy
 
-* **CEO & Co-Founder** — Mappin Technologies Ltd *(2019)*
-  * Built indoor navigation, asset tracking, and contagion monitoring tools for large venues.
+## Awards
+
+* **King's Experience Research Award**, King's College London *(2019)*
 
 ## Skills
 
-* **Programming:** Python, Julia
+* **Programming:** Python, Julia, Fortran, Matlab
 * **Languages:** Italian (native), English (fluent), French
 
