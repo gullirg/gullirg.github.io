@@ -10,6 +10,10 @@ redirect_from:
 
 <a href="{{ base_path }}{{ site.author.cv }}" class="btn btn--primary"><i class="fas fa-download" aria-hidden="true"></i>&nbsp; Download CV (PDF)</a>
 
+## Research interests
+
+Computational models of how the brain forms cognitive maps from first-person experience: egocentric–allocentric reference frame transformations, spatial memory and imagery, and the relation between navigation in physical space and in abstract, conceptual spaces.
+
 ## Education
 
 <ul class="timeline">
@@ -17,7 +21,7 @@ redirect_from:
     <div class="timeline__when">2023 – 2027</div>
     <div class="timeline__what">
       <strong>PhD in Cognitive Neuroscience</strong>, UCL Institute of Cognitive Neuroscience
-      <p>Grid cells, hexadirectional modulation and firing rate adaptation. Supervisor: Prof. Neil Burgess. Upgraded from MPhil to PhD in April 2025; expected completion 2027.</p>
+      <p>Computational models of spatial cognition: egocentric–allocentric transformations, cognitive maps and grid cells. Supervisor: Prof. Neil Burgess. Upgraded from MPhil to PhD in April 2025; expected completion 2027.</p>
     </div>
   </li>
   <li>
@@ -73,7 +77,7 @@ redirect_from:
     <div class="timeline__when">2023 – present</div>
     <div class="timeline__what">
       <strong>Doctoral Researcher</strong>, Space &amp; Memory Group, UCL Institute of Cognitive Neuroscience
-      <p>Analysis of almost 4,000 rat grid cells and simulations of grid cell populations to identify the neuronal origin of hexadirectional modulation.</p>
+      <p>Models of how egocentric experience is transformed into allocentric cognitive maps, extending the Bicanski &amp; Burgess model of spatial memory and imagery to spatial view cells. Population models and recordings of grid cells to identify the neuronal origin of hexadirectional modulation.</p>
     </div>
   </li>
   <li>
@@ -160,7 +164,7 @@ redirect_from:
 <ul class="timeline">
   <li>
     <div class="timeline__when">Programming</div>
-    <div class="timeline__what">Python (neural data analysis, Poisson and regression modelling, simulation of neural populations); Julia, MATLAB, Fortran; Git, LaTeX, Linux</div>
+    <div class="timeline__what">Python (computational modelling and simulation of neural circuits, statistical modelling of neural data); Julia, MATLAB, Fortran; Git, LaTeX, Linux</div>
   </li>
   <li>
     <div class="timeline__when">Languages</div>

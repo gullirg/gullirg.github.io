@@ -5,7 +5,7 @@ locale                   : "en-US"
 title                    : "Guglielmo Reggio"
 title_separator          : "–"
 name                     : &name "Guglielmo Reggio"
-description              : &description "PhD candidate in computational neuroscience at UCL, working on grid cells, hexadirectional modulation and firing-rate adaptation."
+description              : &description "PhD candidate in computational neuroscience at UCL, building models of how the brain forms cognitive maps from first-person experience and navigates spatial and conceptual spaces."
 url                      : https://gullirg.github.io
 baseurl                  : ""
 repository               : "gullirg/gullirg.github.io"
