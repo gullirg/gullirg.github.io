@@ -1,9 +1,11 @@
 ---
 title: "Cellular Computing & Artificial Cells"
-excerpt: "Theoretical Physics literature review. [PDF](/files/k1763271_Reggio_LitRev.pdf)."
-collection: portfolio
+group: writing
+year: 2019
+kind: "Literature review, BSc Physics with Theoretical Physics, King's College London"
+excerpt: "Cells viewed as information-processing machines, and attempts to recreate neuronal computation artificially."
 ---
 
-In the present review we analyse the key features of cells, seen fundamentally as information processing machines. Even though the comparison between cells and machines or cells and computers provides a powerful tool for understanding how information is stored and processed by the cellular machinery, a series of misleading and simplistic assumptions are critically reviewed. Moreover, the seminal studies on understanding and artificially recreating the neuronal structure are analysed, both for exploiting its powerful computational abilities in information processing devices and for providing medical solutions to neurodegenerative diseases, neurological trauma and neuroprosthetics.
+This review analyses the key features of cells seen as information-processing machines. The comparison between cells and computers is a powerful tool for understanding how the cellular machinery stores and processes information, but it also rests on misleading and simplistic assumptions, which are critically reviewed. The review then covers seminal studies that aim to understand and artificially recreate neuronal structure, both to exploit its computational abilities in information-processing devices and to provide medical solutions for neurodegenerative diseases, neurological trauma and neuroprosthetics.
 
-Find here the [PDF](/files/k1763271_Reggio_LitRev.pdf).
+[Read the review (PDF)](/files/k1763271_Reggio_LitRev.pdf)

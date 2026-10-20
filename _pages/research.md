@@ -1,24 +1,38 @@
 ---
-layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
-My research investigates the neural mechanisms underlying spatial representation and navigation, with a focus on grid cells in the entorhinal cortex. I work in the [Space & Memory Group](https://www.ucl.ac.uk/icn/research/research-groups/space-memory) at UCL, supervised by Prof. Neil Burgess.
+{% include base_path %}
 
-## Hexadirectional Modulation of Grid Cell Firing
+My research asks how neural circuits represent space and support navigation, with a focus on grid cells in the entorhinal cortex. I work in the Space &amp; Memory group at the [UCL Institute of Cognitive Neuroscience](https://www.ucl.ac.uk/icn/), supervised by Prof. Neil Burgess, and combine large-scale analysis of neural recordings with computational modelling.
 
-Grid cells fire at multiple periodic locations as an animal moves through its environment and are thought to support spatial navigation and memory. To detect grid-cell-like representations non-invasively in humans, researchers have developed **hexadirectional modulation (HM)** methods, which look for macroscopic brain signals (e.g. fMRI BOLD, MEG theta power) that vary with movement direction with six-fold rotational symmetry. Despite the widespread use of these methods, the cellular origin of HM had remained unclear.
+## Where does hexadirectional modulation come from?
 
-We analysed a large dataset of over 1,000 grid cells recorded from freely foraging rats to evaluate two proposed mechanisms: (1) **firing-rate adaptation**, where grid-aligned movement causes fields to be visited in close succession, leading to suppressed firing; and (2) **conjunctive grid × head-direction cells**, whose preferred directions might align with grid axes.
+Grid cells fire at the vertices of a regular triangular lattice as an animal moves through its environment, and are thought to provide a metric for navigation and memory. In humans, grid cell activity is usually measured indirectly, through **hexadirectional modulation (HexMod)**. HexMod is a six-fold variation of macroscopic signals, such as fMRI, MEG or intracranial recordings, with the direction of movement. It has been used in many laboratories to study the role of grid cells in cognition, development, ageing and disease, but its neuronal origin has been unclear.
 
-Using a **multiplicative Poisson model** that controls for inhomogeneous sampling of location, speed, and direction during natural behaviour, we observed significant hexadirectional modulation. Consistent with the adaptation hypothesis, firing rates were reduced when grid fields were visited in rapid succession — a pattern more common during grid-aligned movement. By contrast, conjunctive cells showed no preferential alignment of their head-direction tuning to grid axes and did not exhibit stronger HM.
+Two mechanisms have been proposed:
 
-These results support firing-rate adaptation as the physiological source of hexadirectional modulation and inform the design of future experiments aiming to detect grid cell activity non-invasively.
+- **Conjunctive grid × direction cells** whose preferred directions align with the grid axes.
+- **Firing rate adaptation**, which reduces firing when grid fields are visited in quick succession, as happens during movement along the grid axes.
 
-## Current Directions
+We analysed almost 4,000 grid cells recorded from foraging rats. Conjunctive cells' directional tuning was broad and not aligned with the grid axes. Firing, by contrast, was reduced shortly after grid field visits, on a timescale of about a second, consistent with adaptation. Simulations of realistic grid cell populations show that adaptation produces HexMod with the relatively straight trajectories typical of human experiments, but not with the tortuous paths of foraging rats. The simulations also quantify how HexMod depends on grid scale, adaptation time constant and movement speed, and how controlling for variation with location improves its detection.
 
-- Characterising the timescale and spatial dependence of adaptation effects in grid cell populations
-- Computational modelling of adaptation-driven hexadirectional signals
-- Implications for interpreting human fMRI and MEG studies of grid-cell-like representations
+Together, these results make firing rate adaptation a plausible mechanism for HexMod. They also give a framework for relating human neuroimaging to neuronal activity and for designing experiments that detect grid cells non-invasively.
+
+{% assign hexmod = site.data.publications | where: "id", "reggio2026hexmod" %}
+{% for pub in hexmod %}{% include publication.html pub=pub %}{% endfor %}
+
+The rat recordings from Barry et al. (2012) and Ólafsdóttir et al. (2016) analysed in this work are openly available on [Zenodo](https://doi.org/10.5281/zenodo.23477461). The analysis code will be released alongside the preprint.
+
+## Current directions
+
+- The timescale and spatial dependence of adaptation in grid cell populations
+- Models that link single-neuron adaptation to population-level hexadirectional signals
+- What these mechanisms mean for interpreting human fMRI and MEG studies of grid-like codes
+- Spatial and conceptual representations more broadly
+
+## Collaborators
+
+Misun Kim, Zilong Ji and Neil Burgess (UCL Institute of Cognitive Neuroscience), Daniel Bush (UCL Neuroscience, Physiology &amp; Pharmacology), and Caswell Barry (UCL Cell &amp; Developmental Biology).

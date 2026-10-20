@@ -1,0 +1,58 @@
+# Publications and conference contributions, newest first.
+# Rendered by _includes/publication.html on the home, Publications and CV pages.
+#
+# type: preprint | conference | poster
+# Optional link fields (a button appears only when the field is set):
+#   doi     DOI without the https://doi.org/ prefix (shown as "Preprint" for preprints)
+#   pdf     site path or URL of a PDF
+#   poster  site path or URL of a poster PDF
+#   code    code repository URL
+#   data    dataset URL
+# selected: true shows the entry on the home page.
+
+- id: reggio2026hexmod
+  type: preprint
+  selected: true
+  title: "Firing rate adaptation in grid cells produces macroscopic hexadirectional modulation"
+  authors: "G. Reggio*, M. Kim*, Z. Ji, D. Bush, C. Barry, N. Burgess"
+  venue: "Submitted"
+  year: 2026
+  note: "Preprint on bioRxiv coming soon."
+  # When bioRxiv posts the preprint: set doi (10.1101/...), change venue to "bioRxiv",
+  # and remove the note. Add code once the GitHub repository is public:
+  # code: "https://github.com/gullirg/hexmod-grid-cell-adaptation"
+  data: "https://doi.org/10.5281/zenodo.23477461"
+  abstract: >-
+    Hexadirectional modulation (HexMod) of macroscopic neural activity by movement direction
+    is widely used to measure grid cell activity in human neuroimaging, but its neuronal origin
+    is unclear. Two mechanisms have been proposed: conjunctive grid×direction cells whose
+    preferred directions align with the grid axes, and firing rate adaptation, which reduces
+    firing when grid fields are visited in quick succession during movement along grid axes.
+    Analysing almost 4,000 grid cells from foraging rats, we found that conjunctive cells'
+    directional tuning was broad and unaligned with grid axes, whereas firing was reduced
+    shortly after grid field visits, consistent with firing rate adaptation. Simulations of
+    realistic grid cell populations demonstrate HexMod with the typical trajectories of human
+    experiments, and show how it depends on grid scale, adaptation time constant, movement
+    speed, and controlling for variation with location. We show firing rate adaptation provides
+    a plausible mechanism for HexMod and a framework for relating human neuroimaging to
+    neuronal activity.
+
+- id: reggio2025ccn
+  type: conference
+  title: "Hexadirectional modulation of grid cell firing by firing rate adaptation"
+  authors: "G. Reggio*, M. Kim*, Z. Ji, D. Bush, C. Barry, N. Burgess"
+  venue: "Cognitive Computational Neuroscience (CCN)"
+  place: "Amsterdam, Netherlands"
+  year: 2025
+  format: "Extended abstract and poster"
+  pdf: "/files/Reggio_2025_Hexadirectional_modulation_grid_cell_firing_firing.pdf"
+
+- id: reggio2024inav
+  type: poster
+  title: "Hexadirectional modulation of grid cell firing in rodents"
+  authors: "G. Reggio*, M. Kim*, Z. Ji, D. Bush, C. Wang, C. Barry, N. Burgess"
+  venue: "iNAV Interdisciplinary Navigation Symposium"
+  place: "Merano, Italy"
+  year: 2024
+  format: "Poster"
+  poster: "/files/iNav_poster_hopeToBeFinal.pdf"

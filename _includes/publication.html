@@ -1,0 +1,29 @@
+{% comment %}Renders one entry of _data/publications.yml. Usage: {% include publication.html pub=pub %}{% endcomment %}
+{% assign pub = include.pub %}
+{% capture type_label %}{% case pub.type %}{% when "preprint" %}Preprint{% when "conference" %}Conference{% when "poster" %}Poster{% else %}{{ pub.type | capitalize }}{% endcase %}{% endcapture %}
+<article class="pub" id="{{ pub.id }}">
+  <div class="pub__aside">
+    <span class="pub__year">{{ pub.year }}</span>
+    <span class="pub__badge pub__badge--{{ pub.type }}">{{ type_label }}</span>
+  </div>
+  <div class="pub__body">
+    <h3 class="pub__title">{% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}</h3>
+    <p class="pub__authors">{{ pub.authors | replace: "G. Reggio", "<strong>G. Reggio</strong>" }}</p>
+    <p class="pub__venue">
+      <em>{{ pub.venue }}</em>{% if pub.place %}, {{ pub.place }}{% endif %}{% if pub.format %} · {{ pub.format }}{% endif %}{% if pub.note %} · {{ pub.note }}{% endif %}
+    </p>
+    <div class="pub__links">
+      {% if pub.doi %}<a class="pub__link" href="https://doi.org/{{ pub.doi }}">{% if pub.type == "preprint" %}Preprint{% else %}DOI{% endif %}</a>{% endif %}
+      {% if pub.pdf %}<a class="pub__link" href="{{ pub.pdf }}">PDF</a>{% endif %}
+      {% if pub.poster %}<a class="pub__link" href="{{ pub.poster }}">Poster</a>{% endif %}
+      {% if pub.code %}<a class="pub__link" href="{{ pub.code }}">Code</a>{% endif %}
+      {% if pub.data %}<a class="pub__link" href="{{ pub.data }}">Data</a>{% endif %}
+      {% if pub.abstract %}
+      <details class="pub__abstract">
+        <summary class="pub__link">Abstract</summary>
+        <p>{{ pub.abstract }}</p>
+      </details>
+      {% endif %}
+    </div>
+  </div>
+</article>

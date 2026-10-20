@@ -1,28 +1,47 @@
 ---
 permalink: /
-title: "About"
-excerpt: "Guglielmo Reggio — Computational Neuroscience, UCL"
+title: "Guglielmo Reggio"
+excerpt: "PhD candidate in computational neuroscience at the UCL Institute of Cognitive Neuroscience."
 author_profile: true
-redirect_from: 
+hide_title: true
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a PhD student in computational neuroscience at [University College London](https://www.ucl.ac.uk/icn/) in the [Space & Memory Group](https://www.ucl.ac.uk/icn/research/research-groups/space-memory), supervised by Prof. Neil Burgess. My research focuses on how neural circuits represent space and support navigation. In particular, I study **grid cells**, **hexadirectional modulation**, and computational mechanisms such as **firing-rate adaptation**, using large-scale neural data analysis and modelling.
+{% include base_path %}
 
-My background is interdisciplinary: I hold a BA in Philosophy (Università Vita-Salute San Raffaele), a BSc in Theoretical Physics (King's College London), and an MSc in Machine Learning (UCL). Before starting my PhD I worked as a Research Assistant in the Space & Memory Group, investigating hexadirectional modulation in rodent grid cell recordings.
+<p class="lead">I am a PhD candidate in computational neuroscience at the <a href="https://www.ucl.ac.uk/icn/">UCL Institute of Cognitive Neuroscience</a>, working with <a href="https://www.ucl.ac.uk/brain-sciences/icn/research/research-groups/space-memory/neil-burgess">Prof. Neil Burgess</a> in the Space &amp; Memory group.</p>
 
-## Current Research Interests
+I study how the brain represents space. My current work asks where *hexadirectional modulation* comes from: this six-fold signal is the standard way to detect grid cell activity non-invasively in humans. To answer this, I analyse thousands of grid cells recorded in rats and simulate grid cell populations. The work shows that firing rate adaptation can produce the signal, and it links single-neuron mechanisms to human neuroimaging. [More about my research →]({{ base_path }}/research/)
 
-- Hexadirectional modulation in rodent grid cells
-- Firing-rate adaptation and spatial coding
-- Computational models of navigation
-- Spatial cognition and cognitive maps
+My background is interdisciplinary. I studied philosophy at Università Vita-Salute San Raffaele, theoretical physics at King's College London, and machine learning at UCL.
 
-## Methods & Tools
+<ul class="interests">
+  <li>Grid cells</li>
+  <li>Hexadirectional modulation</li>
+  <li>Firing rate adaptation</li>
+  <li>Spatial navigation &amp; cognitive maps</li>
+  <li>Computational modelling</li>
+  <li>Neural data analysis</li>
+</ul>
 
-My work combines large-scale neural data analysis, Poisson and regression-based modelling, and behavioural trajectory analysis, primarily in Python.
+## News
 
-## Other Experience
+<ul class="news">
+{% for item in site.data.news %}
+  <li>
+    <time datetime="{{ item.date }}">{{ item.date | append: "-01" | date: "%b %Y" }}</time>
+    <p>{{ item.text | markdownify | remove: "<p>" | remove: "</p>" | strip }}</p>
+  </li>
+{% endfor %}
+</ul>
 
-During my time at King's College London I was awarded the **King's Experience Research Award** and investigated Turing patterns in reaction-diffusion systems on complex networks. I also worked as a Material Analyst at **Fermilab** and interned at the **Hebrew University of Jerusalem** (Burak Lab), developing a ring attractor network model of place cells. While studying Physics I co-founded **Mappin Technologies**, an early-stage indoor navigation startup, now discontinued (Kings20 and Geovation accelerator cohorts).
+## Selected publications
+
+{% assign selected = site.data.publications | where: "selected", true %}
+{% for pub in selected %}
+  {% include publication.html pub=pub %}
+{% endfor %}
+
+<p class="section-link"><a href="{{ base_path }}/publications/">All publications and conference contributions →</a></p>

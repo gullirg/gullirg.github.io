@@ -1,9 +1,11 @@
 ---
-title: "The Entropic Miracles"
-excerpt: "A mixture of philosophical and scientific perspectives on the human mind. [PDF](/files/TheEntropicMiracle.pdf)."
-collection: portfolio
+title: "The Entropic Miracle"
+group: writing
+year: 2020
+kind: "Essay, King's College London"
+excerpt: "An essay combining philosophical and scientific perspectives on the human mind and its capacity for meaning."
 ---
 
-One of the greatest differences, if not the greatest, between human beings and the rest of the animal world is the semiotic ability, i.e. the faculty of transforming the magmatic reality revealing itself in front of our eyes into compact, well defined concepts. From the chaotic and incredibly dense state of the primordial singularity, or the 'Big Bang', to the expected heat death, or 'Big Rip', the human species made its appearance in an entropic miracle where the ontologically identical components of reality assembled themselves in a meaningful and manyfold reality where complex systems could generate emergent properties and behaviour, adding new dimensions to the phase space of this reality.
+One of the greatest differences between human beings and the rest of the animal world is the semiotic ability: the faculty of turning the dense, chaotic reality in front of us into compact, well-defined concepts. This essay brings together philosophical and scientific perspectives on how, between the Big Bang and the expected heat death of the universe, complex systems capable of generating meaning could emerge.
 
-Find here the [PDF](/files/TheEntropicMiracle.pdf).
+[Read the essay (PDF)](/files/TheEntropicMiracle.pdf)

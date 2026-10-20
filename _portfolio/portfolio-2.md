@@ -1,9 +1,11 @@
 ---
-title: "Cognitive Maps: a grid-like code"
-excerpt: "Essay on grid-like coding for the Systems Neuroscience module at KCL. [PDF](/files/Cognitive_maps.pdf) · [Poster](/files/SysNeuro_Poster.pdf)."
-collection: portfolio
+title: "Cognitive maps: a grid-like code?"
+group: writing
+year: 2019
+kind: "Essay and poster, Systems Neuroscience module, King's College London"
+excerpt: "A review of how hippocampal place cells and entorhinal grid cells could support cognitive maps."
 ---
 
-Together, the hippocampus and the EC contribute to the encoding of declarative and spatial memory. In the hippocampus, place cells (a type of pyramidal neurons), so called as they fire action potential when an animal is located in a distinct region of space (the place field of the cell), are thought to generate cognitive maps, as hypothesised by Edward Tolman. In 2005, Moser et al. discovered the existence of grid cells in the medial entorhinal cortex (MEC). Grid cells can be described as a type of place cells characterised by regular patterns in their spatial activity. They represent a rhomboidal grid-like structure of place fields that repeat at regular intervals. 
+Together, the hippocampus and the entorhinal cortex (EC) contribute to declarative and spatial memory. Place cells in the hippocampus fire when an animal is in a particular region of space and are thought to form the basis of the cognitive maps hypothesised by Edward Tolman. In 2005, Moser and colleagues discovered grid cells in the medial entorhinal cortex, whose firing fields form a regular triangular lattice that tiles the environment. This essay reviews the evidence that grid cells provide a metric for such cognitive maps.
 
-Find here the [PDF](/files/Cognitive_maps.pdf) and the [poster](/files/SysNeuro_Poster.pdf).
+[Essay (PDF)](/files/Cognitive_maps.pdf) · [Poster (PDF)](/files/SysNeuro_Poster.pdf)

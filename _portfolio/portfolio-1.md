@@ -1,14 +1,16 @@
 ---
 title: "When Matter Thought Itself"
-excerpt: "BA in Philosophy dissertation (in Italian). [PDF](/files/Tesi_Coscienza.pdf)."
-collection: portfolio
+group: writing
+year: 2017
+kind: "BA dissertation in Philosophy, Università Vita-Salute San Raffaele (in Italian)"
+excerpt: "A conceptual and historical analysis of the notion of consciousness across philosophy and science."
 ---
 
-The aim of the present dissertation is to clarify in an etymological, semantic and conceptual manner the generic concept of consciousness.
-Starting with the question "what is consciousness?" the main problem is then broken down into minor issues represented by the questions:
-1. What does one refer to with the word "consciousness"
-2. Is the term "consciousness" unique and unambiguous? If so, which different connotations occur?
-3. Which areas of knowledge deal with the theme of consciousness and which different prospectives do they offer?
-4. How did the concept of consciousness evolved through the history of thought and the history of science? Which elements determined its main turning points?
+The aim of this dissertation is to clarify the concept of consciousness etymologically, semantically and conceptually. Starting from the question "what is consciousness?", the main problem is broken down into smaller questions:
 
-Find here the [PDF](/files/Tesi_Coscienza.pdf).
+1. What does one refer to with the word "consciousness"?
+2. Is the term "consciousness" unique and unambiguous? If not, which different connotations does it have?
+3. Which areas of knowledge deal with consciousness, and which perspectives do they offer?
+4. How did the concept of consciousness evolve through the history of thought and of science, and what determined its main turning points?
+
+[Read the dissertation (PDF, in Italian)](/files/Tesi_Coscienza.pdf)
