@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Guglielmo Reggio"
-excerpt: "PhD candidate in computational neuroscience at UCL, building models of how the brain forms cognitive maps from first-person experience."
+excerpt: "PhD candidate in computational neuroscience at UCL, interested in how the brain forms cognitive maps from first-person experience."
 author_profile: true
 hide_title: true
 redirect_from:
@@ -13,9 +13,9 @@ redirect_from:
 
 <p class="lead">I am a PhD candidate in computational neuroscience at the <a href="https://www.ucl.ac.uk/icn/">UCL Institute of Cognitive Neuroscience</a>, working with <a href="https://www.ucl.ac.uk/brain-sciences/icn/research/research-groups/space-memory/neil-burgess">Prof. Neil Burgess</a> in the Space &amp; Memory group.</p>
 
-I build computational models of how the brain turns first-person experience into cognitive maps. One question is how egocentric, self-centred sensory input is transformed into allocentric, world-centred representations of space, and back again when we remember or imagine a place. Another is whether the same machinery lets us navigate abstract, conceptual spaces as well as physical ones.
+My first paper asks where *hexadirectional modulation* comes from, the signal used to detect grid cells in human neuroimaging. Combining recordings of thousands of grid cells with simulations of grid cell populations, we show that firing rate adaptation can explain it. [More about my research →]({{ base_path }}/research/)
 
-I test these models against neural data. In my first paper, simulations of grid cell populations and recordings of thousands of grid cells show that firing rate adaptation can explain *hexadirectional modulation*, the signal used to detect grid cells in human neuroimaging. [More about my research →]({{ base_path }}/research/)
+More broadly, I am interested in computational models of how the brain turns first-person experience into cognitive maps: how egocentric, self-centred sensory input is transformed into allocentric, world-centred representations of space, and back again when we remember or imagine a place, and whether the same machinery lets us navigate abstract, conceptual spaces as well as physical ones.
 
 My background is interdisciplinary. I studied philosophy at Università Vita-Salute San Raffaele, theoretical physics at King's College London, and machine learning at UCL.
 

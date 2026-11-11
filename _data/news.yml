@@ -2,9 +2,10 @@
 
 - date: 2026-10
   text: >-
-    Our paper *Firing rate adaptation in grid cells produces macroscopic hexadirectional
-    modulation* has been submitted, and the preprint will appear on bioRxiv shortly. The rat
-    recordings we analysed are openly available on [Zenodo](https://doi.org/10.5281/zenodo.23477461).
+    Our preprint *Firing rate adaptation in grid cells produces macroscopic hexadirectional
+    modulation* is out on [bioRxiv](https://doi.org/10.64898/2026.10.19.760191). The
+    [code](https://github.com/gullirg/hexmod-grid-cell-adaptation) reproduces every figure and statistic,
+    and the rat recordings we analysed are openly available on [Zenodo](https://doi.org/10.5281/zenodo.23477461).
 
 - date: 2026-06
   text: >-

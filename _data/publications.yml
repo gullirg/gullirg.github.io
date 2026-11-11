@@ -15,12 +15,10 @@
   selected: true
   title: "Firing rate adaptation in grid cells produces macroscopic hexadirectional modulation"
   authors: "G. Reggio*, M. Kim*, Z. Ji, D. Bush, C. Barry, N. Burgess"
-  venue: "Submitted"
+  venue: "bioRxiv"
   year: 2026
-  note: "Preprint on bioRxiv coming soon."
-  # When bioRxiv posts the preprint: set doi (10.1101/...), change venue to "bioRxiv",
-  # and remove the note. Add code once the GitHub repository is public:
-  # code: "https://github.com/gullirg/hexmod-grid-cell-adaptation"
+  doi: "10.64898/2026.10.19.760191"
+  code: "https://github.com/gullirg/hexmod-grid-cell-adaptation"
   data: "https://doi.org/10.5281/zenodo.23477461"
   abstract: >-
     Hexadirectional modulation (HexMod) of macroscopic neural activity by movement direction

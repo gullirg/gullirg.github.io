@@ -21,7 +21,7 @@ Computational models of how the brain forms cognitive maps from first-person exp
     <div class="timeline__when">2023 – 2027</div>
     <div class="timeline__what">
       <strong>PhD in Cognitive Neuroscience</strong>, UCL Institute of Cognitive Neuroscience
-      <p>Computational models of spatial cognition: egocentric–allocentric transformations, cognitive maps and grid cells. Supervisor: Prof. Neil Burgess. Upgraded from MPhil to PhD in April 2025; expected completion 2027.</p>
+      <p>Grid cells and hexadirectional modulation; computational models of spatial cognition. Supervisor: Prof. Neil Burgess. Upgraded from MPhil to PhD in April 2025; expected completion 2027.</p>
     </div>
   </li>
   <li>
@@ -77,7 +77,7 @@ Computational models of how the brain forms cognitive maps from first-person exp
     <div class="timeline__when">2023 – present</div>
     <div class="timeline__what">
       <strong>Doctoral Researcher</strong>, Space &amp; Memory Group, UCL Institute of Cognitive Neuroscience
-      <p>Models of how egocentric experience is transformed into allocentric cognitive maps, extending the Bicanski &amp; Burgess model of spatial memory and imagery to spatial view cells. Population models and recordings of grid cells to identify the neuronal origin of hexadirectional modulation.</p>
+      <p>Showed that firing rate adaptation provides a plausible mechanism for hexadirectional modulation, combining recordings of almost 4,000 grid cells with simulations of grid cell populations. Interested in egocentric–allocentric transformations and cognitive maps.</p>
     </div>
   </li>
   <li>
@@ -110,14 +110,21 @@ Computational models of how the brain forms cognitive maps from first-person exp
   </li>
 </ul>
 
-## Teaching
+## Teaching and supervision
 
 <ul class="timeline">
   <li>
-    <div class="timeline__when">2023 – 2026</div>
+    <div class="timeline__when">2026 – present</div>
     <div class="timeline__what">
-      <strong>Postgraduate Teaching Assistant</strong>, NEUR0016 Neural Computation: Models of Brain Function, UCL
-      <p>Undergraduate tutorial groups, coursework essay marking and exam marking.</p>
+      <strong>Literature Project Supervisor</strong>, UCL Institute of Cognitive Neuroscience
+      <p>Supervising a third-year MSci Neuroscience literature project on vector codes beyond physical space, with Prof. Neil Burgess.</p>
+    </div>
+  </li>
+  <li>
+    <div class="timeline__when">2023 – present</div>
+    <div class="timeline__what">
+      <strong>Postgraduate Teaching Assistant</strong>, UCL
+      <p>NEUR0016 Neural Computation: Models of Brain Function (final-year undergraduate and MSc). Tutorials and assessment marking.</p>
     </div>
   </li>
   <li>
